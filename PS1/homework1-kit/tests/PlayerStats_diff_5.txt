@@ -1,0 +1,62 @@
+< guard0 12.810000
+> guard0
+< guard3 3.961621
+> 790.000000
+< center2 2.798050
+> 491.000000
+< forward1 2.370460
+> 12.810000
+< forward4 1.063898
+> test1test11forward1
+< center5 0.000000
+> 122.000000
+< 
+> 857.000000
+< 
+> 2.370460
+< 
+> test1test11center2
+< 
+> 1898.000000
+< 
+> 111.000000
+< 
+> 2.798050
+< 
+> test1test6test7test8test10test11guard3
+< 
+> 1047.000000
+< 
+> 811.000000
+< 
+> 3.961621
+< 
+> test1test6test7test8test10test11forward4
+< 
+> 650.000000
+< 
+> 349.000000
+< 
+> 1.063898
+< 
+> test1test6test7test8test10test11center5
+< 
+> 1705.000000
+< 
+> 73.000000
+< 
+> 0.000000
+< 
+> test1test6test7test8test10test11guard0 12.810000
+< 
+> guard3 3.961621
+< 
+> center2 2.798050
+< 
+> forward1 2.370460
+< 
+> forward4 1.063898
+< 
+> center5 0.000000
+< 
+> sachal

@@ -1,0 +1,102 @@
+< guard0 12.810000
+> guard0
+< guard9 10.086206
+> 790.000000
+< guard6 9.685534
+> 491.000000
+< guard3 3.961621
+> 12.810000
+< center8 3.738562
+> test1test11forward1
+< center2 2.798050
+> 122.000000
+< forward1 2.370460
+> 857.000000
+< center5 2.067442
+> 2.370460
+< forward7 1.559792
+> test1test11center2
+< forward4 1.063898
+> 1898.000000
+< 
+> 111.000000
+< 
+> 2.798050
+< 
+> test1test6test7test8test10test11guard3
+< 
+> 1047.000000
+< 
+> 811.000000
+< 
+> 3.961621
+< 
+> test1test6test7test8test10test11forward4
+< 
+> 650.000000
+< 
+> 349.000000
+< 
+> 1.063898
+< 
+> test1test6test7test8test10test11center5
+< 
+> 1705.000000
+< 
+> 73.000000
+< 
+> 2.067442
+< 
+> test1test6test7test8test10test11guard6
+< 
+> 1200.000000
+< 
+> 340.000000
+< 
+> 9.685534
+< 
+> test1test6test7test8test10test11forward7
+< 
+> 529.000000
+< 
+> 371.000000
+< 
+> 1.559792
+< 
+> test1test6test7test8test10test11center8
+< 
+> 1172.000000
+< 
+> 544.000000
+< 
+> 3.738562
+< 
+> test1test6test7test8test10test11guard9
+< 
+> 1739.000000
+< 
+> 601.000000
+< 
+> 10.086206
+< 
+> test1test6test7test8test10test11guard0 12.810000
+< 
+> guard9 10.086206
+< 
+> guard6 9.685534
+< 
+> guard3 3.961621
+< 
+> center8 3.738562
+< 
+> center2 2.798050
+< 
+> forward1 2.370460
+< 
+> center5 2.067442
+< 
+> forward7 1.559792
+< 
+> forward4 1.063898
+< 
+> sachal

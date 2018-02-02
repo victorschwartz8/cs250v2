@@ -39,5 +39,6 @@ int main(int argc, char *argv[])
   else{
     printf("%d\n", rc(num));
   }
+  return 0;
 
 }
